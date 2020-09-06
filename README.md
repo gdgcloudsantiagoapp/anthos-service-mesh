@@ -1,5 +1,8 @@
 # Guía de Instalación de Anthos Service Mesh en Google Kubernetes Engine
 
+## Decisión de utilizar Anthos Service Mesh para el proyecto GDG Cloud Santiago
+Link: https://github.com/gdgcloudsantiagoapp/adr/tree/master/anthos-service-mesh
+
 ## Paso 1 - Habilitar las APIs de Google.
 
 ```
