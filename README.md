@@ -45,7 +45,7 @@ La variable machine-type corresponde al tipo de máquina de los Nodos que tendr�
 
 Para el caso de la aplicación GDG Cloud Santiago machine-type=e2-highcpu-8, num-nodes=1 y subnetwork=default
 
-Para entender más sobre las decisiones en relación al tipo de máquina, número de nodos y subred seleccionada, se pueden visitar las ADR (Architecture Decision Records) en el siguiente repositorio: https://github.com/gdgcloudsantiagoapp/adr
+Para entender más sobre las decisiones en relación al tipo de máquina, número de nodos y subred seleccionada, se pueden visitar las ADR (Architecture Decision Records) en el siguiente repositorio: https://github.com/gdgcloudsantiagoapp/adr/blob/master/google-kubernetes-engine/README.md
 
 ```
 gcloud beta container clusters create ${CLUSTER_NAME} \
